@@ -1,9 +1,8 @@
-# README.md
-
 # Project To Create A Tidy Dataset
-## Getting and Cleaning Data
-## April 2015
-## README file explaining how to run run_analysis.R script
+Getting and Cleaning Data
+April 2015
+
+# README file explaining how to run run_analysis.R script
 
 ## Introduction
 

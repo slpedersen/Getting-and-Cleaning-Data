@@ -1,7 +1,6 @@
+# Project To Create A Tidy Dataset
 # Getting and Cleaning Data
 # April 2015
-#
-# Project
 #
 # Filename: run_analysis.R
 

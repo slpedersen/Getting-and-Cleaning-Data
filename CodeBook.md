@@ -1,9 +1,8 @@
-# CodeBook.md
-
 # Project To Create A Tidy Dataset
-## Getting and Cleaning Data
-## April 2015
-## Codebook for the tidy data set produced by the run_analysis.R script
+Getting and Cleaning Data
+April 2015
+
+# Codebook for the tidy data set produced by the run_analysis.R script
 
 ## Source of data
 
