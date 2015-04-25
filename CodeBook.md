@@ -143,7 +143,7 @@ The resulting dataset is tidy because:
 |         | fBodyGyroJerkMagStddev |
 | | |
 | meanValue | - mean value of measured feature |
-|           | These values are unitless because as stated in the README.txt for the original data: "Features are normalized and bounded within [-1,1]" |
+|           | The values in meanValue are unitless because as stated in the README.txt for the original data: "Features are normalized and bounded within [-1,1]" |
 
 ## References
 

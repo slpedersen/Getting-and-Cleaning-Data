@@ -1,5 +1,6 @@
 # Project To Create A Tidy Dataset
 Getting and Cleaning Data
+
 April 2015
 
 # README file explaining how to run run_analysis.R script
@@ -39,7 +40,7 @@ Open and run_analysis.R in R or RStudio.  This will:
 * Read in the required input data.
 * Transform it into the tidy data set (variable name "tidy_data") in memory.
 
-The tidy dataset has four columns (subject, activity, feature, meanValue).  See the codebook (CodeBook.md) for more information.
+The resulting tidy dataset has 4 columns (subject, activity, feature, meanValue) and 11,880 rows.  The 11,880 rows result from 6 activities times 30 subjects times 66 measurements for which mean values were calculated.  See the codebook (CodeBook.md) for more information.
 
 ## Tidy dataset
 
