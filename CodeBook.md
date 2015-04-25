@@ -61,6 +61,8 @@ The resulting dataset is tidy because:
 
 ## Data dictionary
 
+| column   | description |
+| -------- | ----------- |
 | activity | - activity performed |
 |          | WALKING |
 |          | WALKING_UPSTAIRS |
